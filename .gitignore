@@ -1,0 +1,33 @@
+# Файлы окружения и конфигурации
+.env
+.env.local
+.env*.local
+
+# Файлы данных бота
+user_states.json
+
+# PyCharm и IDE файлы
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Python кэш и скомпилированные файлы
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Файлы зависимостей
+pip-selfcheck.json
+
+# Тестовые данные
+test_data/
