@@ -4,6 +4,7 @@
 .env*.local
 
 # Файлы данных бота
+config.json
 user_states.json
 
 # PyCharm и IDE файлы
